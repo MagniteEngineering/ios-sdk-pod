@@ -1,0 +1,36 @@
+framework module MagniteSDK {
+  umbrella header "Magnite.h"
+
+  export *
+  module * { export * }
+  
+  link framework "AdSupport"
+  link framework "AppTrackingTransparency"
+  link framework "AVFoundation"
+  link framework "CoreAudio"
+  link framework "CoreFoundation"
+  link framework "CoreGraphics"
+  link framework "CoreMedia"
+  link framework "CoreTelephony"
+  link framework "Foundation"
+  link framework "JavaScriptCore"
+  link framework "NetworkExtension"
+  link framework "QuartzCore"
+  link framework "StoreKit"
+  link framework "SystemConfiguration"
+  link framework "UIKit"
+  link framework "WebKit"
+  link "z"
+  
+  header "MGNISDK.h"
+  header "MGNIAbstractAd.h"
+  header "MGNIAd.h"
+  header "MGNIAdPreferences.h"
+  header "MGNINativeAd.h"
+  header "MGNINativeAdDetails.h"
+  header "MGNIBannerSize.h"
+  header "MGNIBannerView.h"
+  header "MGNIBannerLoader.h"
+  header "MGNIInlineView.h"
+  header "MGNIErrorCodes.h"
+}
