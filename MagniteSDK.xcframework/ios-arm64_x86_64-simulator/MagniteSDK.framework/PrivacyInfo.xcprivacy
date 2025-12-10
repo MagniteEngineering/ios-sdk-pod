@@ -105,9 +105,9 @@
 	</array>
 	<key>NSPrivacyTrackingDomains</key>
 	<array>
-		<string>sdk-exchange.magniteservice.com</string>
-		<string>adsmetadata.magniteservice.com</string>
-		<string>infoevent.magniteservice.com</string>
+		<string>adengine-qa.magnite.com</string>
+		<string>metadata-config-service.magnite.com</string>
+		<string>info-events-service.magnite.com</string>
 	</array>
 	<key>NSPrivacyAccessedAPITypes</key>
 	<array>
