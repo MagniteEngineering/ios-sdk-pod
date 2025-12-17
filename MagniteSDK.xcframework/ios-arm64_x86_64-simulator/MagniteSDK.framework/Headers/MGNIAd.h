@@ -3,7 +3,7 @@
 //  MagniteSDK
 //
 //  Copyright (c) 2025 Magnite. All rights reserved.
-//  SDK version 0.0.2
+//  SDK version 0.0.3
 
 #import <UIKit/UIKit.h>
 #import "MGNIAbstractAd.h"

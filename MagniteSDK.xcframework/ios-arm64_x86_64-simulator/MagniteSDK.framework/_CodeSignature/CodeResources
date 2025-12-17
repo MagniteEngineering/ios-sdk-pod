@@ -6,59 +6,59 @@
 	<dict>
 		<key>Headers/MGNIAbstractAd.h</key>
 		<data>
-		VY9F4jR9/thhHzcexTRLR6VSbpI=
+		JB+c2ypl4FmwIftoegibtn3p9Uo=
 		</data>
 		<key>Headers/MGNIAd.h</key>
 		<data>
-		zYi6XhnmeQJT0VMrAUcm94Kvf2k=
+		Ct5nDT3H67Kvwb8UA6hQzmqGhkc=
 		</data>
 		<key>Headers/MGNIAdPreferences.h</key>
 		<data>
-		vRCryjD1TItSAqihvyUqlvWES2E=
+		eiIDZR0oaU23wIPBjME9M1c3UDc=
 		</data>
 		<key>Headers/MGNIBannerLoader.h</key>
 		<data>
-		k5lcm52BY5Zd2NRnvxlTKqEUpZU=
+		e7O+lslK058xwkX3S53c/sK4ChE=
 		</data>
 		<key>Headers/MGNIBannerSize.h</key>
 		<data>
-		Rzs0Br+htUVBnLW7EWeIMMGICjI=
+		7KQDpmi07tT8T5PD3hjiTtYhGDg=
 		</data>
 		<key>Headers/MGNIBannerView.h</key>
 		<data>
-		Rs4QhiqayTOIYpQ+KhDufyFx4Jk=
+		xzU1omMUZxiL2nJ9UrkjHF6uvug=
 		</data>
 		<key>Headers/MGNIBannerViewBase.h</key>
 		<data>
-		lkRZPWb8JMVxPGGsJMewtwp+d+w=
+		Wi3G2YGXtFAdXnaxdaReXmpd2RE=
 		</data>
 		<key>Headers/MGNIErrorCodes.h</key>
 		<data>
-		DmtFgHh82ESdDfU69J8r0Jr0MkI=
+		mokiJLCG3OyIWi8evIBhNOmINkQ=
 		</data>
 		<key>Headers/MGNIInlineView.h</key>
 		<data>
-		ZjZ8p2bE3oqkfO6J2WzMwjnBzfY=
+		eauMuZUc8Vo4y8N0bNF8GkhgmZg=
 		</data>
 		<key>Headers/MGNINativeAd.h</key>
 		<data>
-		/VQxP/+xPNqyGe32w45kP1XbIPY=
+		YVllrnFhZc5DDp8FvuM7xLHtAQo=
 		</data>
 		<key>Headers/MGNINativeAdDetails.h</key>
 		<data>
-		4Jtx7PFvGUcpKimGJ0s+U9AYnAc=
+		cdiIGqZu7xg/Me3qm0pJQOILR3k=
 		</data>
 		<key>Headers/MGNISDK.h</key>
 		<data>
-		CiBx4uLqNepmiYxjOzFmDcLV4cM=
+		MPW0l6egwdED4rbeU9yyX8hyAp0=
 		</data>
 		<key>Headers/Magnite.h</key>
 		<data>
-		dvI5Szix4/GeOTJM5yehS7bLM1o=
+		xsPuJWXd0ej3HZzb3mMdcBdal3k=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iZs8Wi3s/+7pGhnnXzPoiVhwkRE=
+		hGx/XLkn2QQ1YfkXteP4gNNKEyM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,143 +79,143 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VY9F4jR9/thhHzcexTRLR6VSbpI=
+			JB+c2ypl4FmwIftoegibtn3p9Uo=
 			</data>
 			<key>hash2</key>
 			<data>
-			nlnjqr4Gaf059LqmzexXJhwQ2mjXGSv/CJE26V7DUcg=
+			ZCY8cWIHfRzjlwZYOXyDmx2Hw1vuOHQ9RA8GDNLsRJI=
 			</data>
 		</dict>
 		<key>Headers/MGNIAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zYi6XhnmeQJT0VMrAUcm94Kvf2k=
+			Ct5nDT3H67Kvwb8UA6hQzmqGhkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			7am4n4qFa/L4ONoChqM1rB3Xb0aZ9vwE0DP0hjVP9Bw=
+			830KLtFEzRJd+/Cs7GvRWNWi1jSaC2v5Kz8eZ6rckpA=
 			</data>
 		</dict>
 		<key>Headers/MGNIAdPreferences.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vRCryjD1TItSAqihvyUqlvWES2E=
+			eiIDZR0oaU23wIPBjME9M1c3UDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			CLfXbr+L3KhuzljNnNeFWTN5d0r5mb802KJj8ndqsmQ=
+			hKsVPIO1TvFP5f/cGPireU+L7PtgxzXjBhvhItZ/j6w=
 			</data>
 		</dict>
 		<key>Headers/MGNIBannerLoader.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k5lcm52BY5Zd2NRnvxlTKqEUpZU=
+			e7O+lslK058xwkX3S53c/sK4ChE=
 			</data>
 			<key>hash2</key>
 			<data>
-			U2kRsn8FZ3jyYRW0fw9mSElOqfufEJbkzqKweG7EExQ=
+			MUUdPqFgxunv9BUnsvp1OcrTYMSt/99ZWOBmX8tTebA=
 			</data>
 		</dict>
 		<key>Headers/MGNIBannerSize.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rzs0Br+htUVBnLW7EWeIMMGICjI=
+			7KQDpmi07tT8T5PD3hjiTtYhGDg=
 			</data>
 			<key>hash2</key>
 			<data>
-			f+0QKxBQ0WZfalcVrve8/3MNcVjbBFv9niTBMohK0Vw=
+			2cEIa3P5exv0Vt/DM2eEu0o56Ud2+dbAdXQGtxLsmwo=
 			</data>
 		</dict>
 		<key>Headers/MGNIBannerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rs4QhiqayTOIYpQ+KhDufyFx4Jk=
+			xzU1omMUZxiL2nJ9UrkjHF6uvug=
 			</data>
 			<key>hash2</key>
 			<data>
-			71d8uFYIfz/63DnH7efO91iMhzcvmT7MeklrVVsWttA=
+			PgzvDFpG0aHXzoM0U/RpYYjS8E/Oj+c8PhXvZZc6KIM=
 			</data>
 		</dict>
 		<key>Headers/MGNIBannerViewBase.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lkRZPWb8JMVxPGGsJMewtwp+d+w=
+			Wi3G2YGXtFAdXnaxdaReXmpd2RE=
 			</data>
 			<key>hash2</key>
 			<data>
-			D8vqe4Fr30YgmZFGDalbiBB/ZLoTxHbrG3JRrsTSOJI=
+			/ZU4pvaLrrF9ucW8Fc5/9mWhvZWY8jhxys9IPEr6GmI=
 			</data>
 		</dict>
 		<key>Headers/MGNIErrorCodes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DmtFgHh82ESdDfU69J8r0Jr0MkI=
+			mokiJLCG3OyIWi8evIBhNOmINkQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			2T1066VUXu4DxP4atiX+jAO2OpwTk2MMzvQucXBHW4c=
+			6muWEN0qQqno79SnPhk8kPpfx5zabKhGpUKw5B1GwTU=
 			</data>
 		</dict>
 		<key>Headers/MGNIInlineView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZjZ8p2bE3oqkfO6J2WzMwjnBzfY=
+			eauMuZUc8Vo4y8N0bNF8GkhgmZg=
 			</data>
 			<key>hash2</key>
 			<data>
-			7G4BeDXcIhxxbYFW04bTPxgOvspg2v8WCgBs0lOc8Tc=
+			SCzpW7PtOpCVH8zloUJW2RmUbFb1CtqCBHYD9PcNvaA=
 			</data>
 		</dict>
 		<key>Headers/MGNINativeAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/VQxP/+xPNqyGe32w45kP1XbIPY=
+			YVllrnFhZc5DDp8FvuM7xLHtAQo=
 			</data>
 			<key>hash2</key>
 			<data>
-			d+rL4Q+JSqdU1KBrzILYqO8C3MS8R1N89Qx4gdbKpi0=
+			oslI3PUkoAWen2uP/ruBPbq1xMS++DvK7KGQEmuD0so=
 			</data>
 		</dict>
 		<key>Headers/MGNINativeAdDetails.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4Jtx7PFvGUcpKimGJ0s+U9AYnAc=
+			cdiIGqZu7xg/Me3qm0pJQOILR3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			SOZ7fIROOFZQiZpEikI4+dqP1Upr/CrnvINWdzK+hJU=
+			g7a/8sMun4dehNo5kTYiAFoNo0CrGbYI6jHq5AlVmxs=
 			</data>
 		</dict>
 		<key>Headers/MGNISDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CiBx4uLqNepmiYxjOzFmDcLV4cM=
+			MPW0l6egwdED4rbeU9yyX8hyAp0=
 			</data>
 			<key>hash2</key>
 			<data>
-			5mTOWLUYaQKKKfkLewrM8fgcBM0OebwUDpXfrkiMt3E=
+			XjlX10UFiyOUqxw9xGDWS7wvXxW6T2MUzH7kBtaEEBQ=
 			</data>
 		</dict>
 		<key>Headers/Magnite.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dvI5Szix4/GeOTJM5yehS7bLM1o=
+			xsPuJWXd0ej3HZzb3mMdcBdal3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			eKrFTmnZa4GZoQAbyetKb6JFMRu+n5jJgptOH4PksbE=
+			oQJHRWDsusJSMBTuvwBjBRNoU4oNInIoD7Fv/vnu7MI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
