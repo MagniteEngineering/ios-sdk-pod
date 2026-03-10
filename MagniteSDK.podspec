@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                    = 'MagniteSDK'
-  s.version                 = '0.0.3'
+  s.version                 = '0.0.5'
   s.summary                 = 'Magnite SDK for mobile advertising'
 
   s.description             = <<-DESC
