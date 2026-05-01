@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                    = 'MagniteSDK'
-  s.version                 = '0.0.8'
+  s.version                 = '1.0.0'
   s.summary                 = 'Magnite SDK for mobile advertising'
 
   s.description             = <<-DESC
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target   = '12.0'
   s.homepage                = 'https://www.magnite.com/'
   s.license                 = { :type => 'Commercial', :file => 'LICENSE.md' }
-  s.author                  = { 'Magnite' => '<SUPPORT_EMAIL>' }
+  s.author                  = { 'Magnite' => 'sdk@magnite.com' }
   s.source                  = { :git => 'https://github.com/MagniteEngineering/ios-sdk-pod.git', :tag => s.version.to_s }
   
   s.ios.vendored_frameworks = 'MagniteSDK.xcframework'

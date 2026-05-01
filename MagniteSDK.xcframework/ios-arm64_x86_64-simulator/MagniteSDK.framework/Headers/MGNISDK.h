@@ -3,7 +3,7 @@
 //  MagniteSDK
 //
 //  Copyright (c) 2025 Magnite. All rights reserved.
-//  SDK version 0.0.8
+//  SDK version 1.0.0
 
 #import <Foundation/Foundation.h>
 #import "MGNIAd.h"
@@ -83,7 +83,15 @@ typedef enum {
  * @param devID Your Developer ID
  * @param appID Current Application ID
  */
-- (void)SDKInitialize:(NSString *)devID andAppID:(NSString *)appID;
+- (void)SDKInitialize:(NSString *)devID andAppID:(NSString *)appID DEPRECATED_MSG_ATTRIBUTE("Deprecated. Use initializeWithAppID:completion: instead");
+
+/*!
+ * @brief Initializes SDK with Application ID with completion block.
+ * @discussion Call this method to initialize the SDK. Pass a valid Application ID and a completion block to be notified when initialization completes.
+ * @param appID Current Application ID. Required parameter.
+ * @param completion A block called when initialization completes, indicating success or failure. Optional parameter.
+ */
+- (void)initializeWithAppID:(NSString *)appID completion:(void(^)(NSError *error))completion;
 
 /*!
  * @brief Adds/removes extra parameters to an ad request

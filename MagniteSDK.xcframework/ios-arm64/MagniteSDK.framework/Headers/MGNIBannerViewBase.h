@@ -3,7 +3,7 @@
 //  MagniteSDK
 //
 //  Copyright (c) 2025 Magnite. All rights reserved.
-//  SDK version 0.0.8
+//  SDK version 1.0.0
 
 #import <UIKit/UIKit.h>
 #import "MGNIBannerSize.h"
