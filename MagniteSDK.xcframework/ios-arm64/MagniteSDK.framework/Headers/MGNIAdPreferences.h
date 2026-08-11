@@ -2,8 +2,8 @@
 //  MGNIAdPreferences.h
 //  MagniteSDK
 //
-//  Copyright (c) 2025 Magnite. All rights reserved.
-//  SDK version 1.0.0
+//  Copyright (c) 2026 Magnite. All rights reserved.
+//  SDK version 1.0.2
 
 @interface MGNIUserLocation : NSObject
 @property double latitude;

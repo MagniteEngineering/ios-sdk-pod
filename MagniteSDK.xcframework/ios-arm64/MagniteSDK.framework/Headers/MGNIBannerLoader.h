@@ -2,14 +2,14 @@
 //  MGNIBannerLoader.h
 //  MagniteSDK
 //
-//  Copyright (c) 2025 Magnite. All rights reserved.
-//  SDK version 1.0.0
+//  Copyright (c) 2026 Magnite. All rights reserved.
+//  SDK version 1.0.2
 
 #import <Foundation/Foundation.h>
-#import "MGNIBannerSize.h"
-#import "MGNIAdPreferences.h"
-#import "MGNIBannerView.h"
-#import "MGNIInlineView.h"
+#import <MagniteSDK/MGNIBannerSize.h>
+#import <MagniteSDK/MGNIAdPreferences.h>
+#import <MagniteSDK/MGNIBannerView.h>
+#import <MagniteSDK/MGNIInlineView.h>
 
 #ifndef MGNIBannerLoader_h
 #define MGNIBannerLoader_h
