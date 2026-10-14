@@ -3,7 +3,7 @@
 //  MagniteSDK
 //
 //  Copyright (c) 2026 Magnite. All rights reserved.
-//  SDK version 1.0.4
+//  SDK version 1.0.5
 
 #import <Foundation/Foundation.h>
 #import <MagniteSDK/MGNIBannerSize.h>
